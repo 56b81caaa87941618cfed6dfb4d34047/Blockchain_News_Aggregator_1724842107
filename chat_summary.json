@@ -54,5 +54,11 @@
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a real-time blockchain news feed to stay updated with the latest information.\", \"checked\": true}, {\"feature\": \"Implement a search function to easily find specific blockchain topics or keywords.\", \"checked\": true}, {\"feature\": \"Include a favorites section for users to save and quickly access their preferred blockchain news\", \"checked\": false}, {\"feature\": \"Integrate social sharing options to allow users to share interesting blockchain news with others.\", \"checked\": false}, {\"feature\": \"Provide a dark/light mode toggle for user's display preference.\", \"checked\": true}], \"input_token_count\": 264, \"output_token_count\": 118, \"time_taken\": \"0:00:05.239956\"}",
         "timestamp": "28082024105127",
         "message_id": "guest28082024105118"
+    },
+    {
+        "role": "user",
+        "content": "add a button that says hey there",
+        "timestamp": "28082024105137",
+        "message_id": "guest28082024105136"
     }
 ]
