@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where exactly would you like the 'Hello World' button to be positioned within your app layout?\", \"option1\": \"On the top navigation bar\", \"option2\": \"At the bottom of the main content area\"}, {\"question 2\": \"What function should the 'Hello World' button perform when clicked?\", \"option1\": \"Display a popup message saying 'Hello World!'\", \"option2\": \"Navigate to a different page that says 'Hello World'\"}], \"input_token_count\": 274, \"output_token_count\": 109, \"time_taken\": \"0:00:07.661872\"}",
         "timestamp": "28082024104913",
         "message_id": "guest28082024104902"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Interactive tutorial for first-time users on how to use the app\", \"checked\": false}, {\"feature\": \"Dark mode toggle for user interface customization\", \"checked\": true}, {\"feature\": \"Real-time notifications for new blockchain updates or information\", \"checked\": true}, {\"feature\": \"Customizable widget for quick blockchain info on home screen\", \"checked\": false}, {\"feature\": \"Search functionality with filters for dates, blockchain types, and popularity\", \"checked\": true}, {\"feature\": \"User feedback and rating system for the app\\u2019s features\", \"checked\": false}], \"input_token_count\": 228, \"output_token_count\": 133, \"time_taken\": \"0:00:08.903915\"}",
+        "timestamp": "28082024104914",
+        "message_id": "guest28082024104902"
     }
 ]
