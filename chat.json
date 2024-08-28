@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hey There' button to be positioned on the app?\", \"option1\": \"On the main screen, centrally located\", \"option2\": \"At the bottom of the app, as part of the navigation menu\"}, {\"question 2\": \"What action should the 'Hey There' button perform when clicked?\", \"option1\": \"Open a new page with blockchain information\", \"option2\": \"Display a popup message with a greeting\"}], \"input_token_count\": 344, \"output_token_count\": 108, \"time_taken\": \"0:00:07.825268\"}",
+        "message_id": "guest28082024105136",
+        "timestamp": "28082024105151",
+        "component_file_name": "simple_cta_component_1724842109",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I can add a button that says \"hey there\".",
         "message_id": "guest28082024105136",
