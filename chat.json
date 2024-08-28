@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a sidebar with navlinks home, about and contact",
+        "message_id": "guest28082024105203",
+        "timestamp": "28082024105204",
+        "component_file_name": "simple_hero_component_1724842109",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button that says 'Hey There'\", \"checked\": true}, {\"feature\": \"Incorporate a dynamic greeting system based on user's local time\", \"checked\": false}, {\"feature\": \"Enable customizable button colors and fonts in settings\", \"checked\": false}, {\"feature\": \"Add haptic feedback on button press for tactile interaction\", \"checked\": false}, {\"feature\": \"Implement voice commands to activate the button\", \"checked\": false}, {\"feature\": \"Introduce an animation effect when the button is pressed\", \"checked\": false}], \"input_token_count\": 298, \"output_token_count\": 129, \"time_taken\": \"0:00:09.320107\"}",
         "message_id": "guest28082024105136",
