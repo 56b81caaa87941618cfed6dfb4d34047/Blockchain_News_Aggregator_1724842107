@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button that says 'Hey There'\", \"checked\": true}, {\"feature\": \"Incorporate a dynamic greeting system based on user's local time\", \"checked\": false}, {\"feature\": \"Enable customizable button colors and fonts in settings\", \"checked\": false}, {\"feature\": \"Add haptic feedback on button press for tactile interaction\", \"checked\": false}, {\"feature\": \"Implement voice commands to activate the button\", \"checked\": false}, {\"feature\": \"Introduce an animation effect when the button is pressed\", \"checked\": false}], \"input_token_count\": 298, \"output_token_count\": 129, \"time_taken\": \"0:00:09.320107\"}",
+        "message_id": "guest28082024105136",
+        "timestamp": "28082024105152",
+        "component_file_name": "simple_cta_component_1724842109",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hey There' button to be positioned on the app?\", \"option1\": \"On the main screen, centrally located\", \"option2\": \"At the bottom of the app, as part of the navigation menu\"}, {\"question 2\": \"What action should the 'Hey There' button perform when clicked?\", \"option1\": \"Open a new page with blockchain information\", \"option2\": \"Display a popup message with a greeting\"}], \"input_token_count\": 344, \"output_token_count\": 108, \"time_taken\": \"0:00:07.825268\"}",
         "message_id": "guest28082024105136",
