@@ -5,8 +5,17 @@ INSTRUCTION: - To the right: There is an image relevant to the app.
 -->
 
 <template>
-    <section id="hero-section" class="bg-white dark:bg-gray-900 flex-1">
-        <div id="hero-container" class="grid max-w-screen-xl px-4 pt-20 pb-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 lg:pt-28">
+    <section id="hero-section" class="bg-white dark:bg-gray-900 flex-1 flex">
+        <div id="sidebar" class="w-64 bg-gray-100 dark:bg-gray-800 p-4 shadow-lg">
+            <nav>
+                <ul class="space-y-2">
+                    <li><a href="#" class="block py-2 px-4 text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-700 rounded transition duration-150 ease-in-out"><i class='bx bxs-home mr-2'></i>Home</a></li>
+                    <li><a href="#" class="block py-2 px-4 text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-700 rounded transition duration-150 ease-in-out"><i class='bx bxs-info-circle mr-2'></i>About</a></li>
+                    <li><a href="#" class="block py-2 px-4 text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-700 rounded transition duration-150 ease-in-out"><i class='bx bxs-contact mr-2'></i>Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+        <div id="hero-container" class="flex-1 grid max-w-screen-xl px-4 pt-20 pb-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 lg:pt-28">
             <!-- Left section containing title and buttons -->
             <div id="hero-text-container" class="mr-auto place-self-center lg:col-span-7">
                 <div id="hero-title-container-text" class="flex">
